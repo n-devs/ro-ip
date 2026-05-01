@@ -13,7 +13,7 @@
   "dependencies": {
     "dotenv": "^16.4.5",
     "gh-pages": "^6.1.1",
-    "node-cron": "^3.0.3",
+    "node-cron": "^4.2.1",
     "public-ip": "^6.0.2"
   }
 }
